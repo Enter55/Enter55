@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Enter55 und bin hier um Soziale Kontakte zu verknüpfen, um zusammen zu lernen oder informationen auszutauschen (Natürlich über Programmieren) (=
+- 👋 Hi, I’m @Enter55 and I'm here to connect social contacts, to learn together or to exchange information (of course via programming) (=
 - 👀 I am interested in programming
 - 🌱 I’m currently learning C# and pascal
 - 💞️ I’m looking to collaborate on ...
