@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Enter55 and I'm here to connect social contacts, to learn together or to exchange information (of course via programming) (=
-- 👀 I am interested in programming
-- 🌱 I’m currently learning C#,Java,JScript,Angular
+- 👋 Hi, I’m @Enter55 and I'm an application developer. I'm here to connect with others and learn more about programming together, as well as to exchange information.
+- 👀 I'm interested in programming, particularly backend development, but also frontend.
+- 🌱 I’m currently learning C#,Java,Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 Unfortunately I can only be reached here
 
